@@ -1,5 +1,5 @@
 # Weather Analytics
-![weather_analytics](Weather Analytics Cover.png)
+![weather_analytics](weather_analytics_cover.png)
 
 ## Introduction
 This project will cover weather data analytics using machine learning techniques to determine which attributes may affect the temperature captured.
