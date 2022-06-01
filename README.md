@@ -19,6 +19,13 @@ which includes:
 
 The purpose of this study is to predict the temperature based on the above variables using various machine learning algorithms. With multiple variables as the input (X) and a predictable integer variable as the output (Y), regression would be used to solve these type of problems, which in turn, makes this scenario a regression problem.
 
+## Technologies Used
+- pandas
+- sklearn
+- numpy
+- seaborn
+- matplotlib
+
 ## Author
 🙋‍♀️ Wei Ping<br />
 ✉️ weiping.tan.2020@scis.smu.edu.sg <br />
