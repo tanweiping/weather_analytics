@@ -4,7 +4,7 @@
 ## Introduction
 This project will cover weather data analytics using machine learning techniques to determine which attributes may affect the temperature captured.
 
-## Problem Statement
+## Purpose/Problem Statement
 In this dataset, there are multiple 
 variables that has been collected, 
 which includes: 
